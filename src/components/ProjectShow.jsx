@@ -7,7 +7,7 @@ const projects = [
     description:
       "A fully responsive Spotify clone with HTML, CSS, and JavaScript.",
     tech: ["HTML", "CSS", "JavaScript"],
-    image: "src/images/spotify.jpg",
+    image: "/images/spotify.jpg",
     liveLink: "https://your-spotify-clone.com",
     githubLink: "https://github.com/yourgithub/spotify-clone",
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "A sleek and modern portfolio built with React and TailwindCSS.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
-    image: "src/images/portfolio.jpg",
+    image: "/images/portfolio.jpg",
     liveLink: "https://your-portfolio.com",
     githubLink: "https://github.com/yourgithub/portfolio",
   },
@@ -25,7 +25,7 @@ const projects = [
     description:
       "A full-fledged e-commerce site with cart and payment gateway.",
     tech: ["React", "Redux Toolkit", "Firebase"],
-    image: "src/images/ecommerce.jpg",
+    image: "/images/ecommerce.jpg",
     liveLink: "https://your-ecommerce.com",
     githubLink: "https://github.com/yourgithub/ecommerce",
   },
