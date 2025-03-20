@@ -16,7 +16,7 @@ const About = () => {
         transition={{ duration: 0.5 }}
       >
         <img
-          src="/images/profile.jpg"
+          src="/images/profilepic.webp"
           alt="Profile"
           className="w-32 h-32 rounded-full border-4 border-cyan-400 shadow-lg mx-auto"
         />
