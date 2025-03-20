@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="relative h-screen flex flex-col items-center justify-center text-center text-white px-6 pt-15 rounded-lg shadow-xl">
       {/* Profile Image */}
       <motion.img
-        src="src/images/profile.jpg"
+        src="/images/profile.jpg"
         alt="Profile"
         className="w-32 h-32 rounded-full border-4 border-white shadow-lg mb-4"
         initial={{ opacity: 0, scale: 0.5 }}
