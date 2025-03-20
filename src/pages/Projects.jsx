@@ -58,7 +58,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <div className="bg-black text-white min-h-screen py-30 px-6">
+    <div className="bg-black text-white pb-18 pt-40 px-6">
       <ParticlesBg />
       <NeonCursor />
       <motion.h1

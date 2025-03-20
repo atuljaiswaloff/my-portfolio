@@ -55,7 +55,7 @@ const Contact = () => {
   };
   return (
     <motion.div
-      className="min-h-screen bg-black py-30 text-white flex flex-col items-center justify-center relative overflow-hidden"
+      className="pb-18 pt-40 bg-black text-white flex flex-col items-center justify-center relative overflow-hidden"
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}

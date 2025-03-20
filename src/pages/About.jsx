@@ -5,7 +5,7 @@ import NeonCursor from "../components/NeonCursor";
 
 const About = () => {
   return (
-    <section className="min-h-screen bg-black text-white flex flex-col items-center justify-center py-35 px-6 md:px-20">
+    <section className=" bg-black text-white flex flex-col items-center justify-center pb-18 pt-40 px-6 md:px-20">
       <ParticlesBg />
       <NeonCursor />
       {/* Profile Section */}

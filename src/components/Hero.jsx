@@ -5,7 +5,7 @@ import Typewriter from "typewriter-effect";
 
 const Hero = () => {
   return (
-    <section className="relative h-screen flex flex-col items-center justify-center text-center text-white px-6 pt-15 rounded-lg shadow-xl">
+    <section className="relative  flex flex-col items-center justify-center text-center text-white px-6 pb-18 pt-40 rounded-lg shadow-xl">
       {/* Profile Image */}
       <motion.img
         src="/images/profile.jpg"
